@@ -11,4 +11,3 @@
 ![sıralamaişlemi sonucu](https://user-images.githubusercontent.com/84309668/183294108-f40e1ff4-580e-43c1-a475-42be966afa96.PNG)
 
 
-
