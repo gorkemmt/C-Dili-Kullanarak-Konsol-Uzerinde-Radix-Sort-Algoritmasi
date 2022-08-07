@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648485593 source:c:\users\görkem\desktop\radix deneme\radixdeneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
